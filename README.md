@@ -1,6 +1,4 @@
 ## Đây là source code của ứng dụng TODO APP bằng React + Redux
-Có 4 branch: main(UI), react+redux-core, react-redux-toolkit, redux-thunk
-
 Live Demo: https://focused-engelbart-3d0ac1.netlify.app/
 
 # Getting Started with Create React App
